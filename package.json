@@ -1,0 +1,10 @@
+{
+  "name": "twitter-lists",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gorzas <joseda87@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-to-array": "^1.0.2"
+  }
+}
