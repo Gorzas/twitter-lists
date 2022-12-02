@@ -59,6 +59,18 @@ concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
 
+convert-csv-to-array@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/convert-csv-to-array/-/convert-csv-to-array-1.0.3.tgz#6e4e74001d84788ce1158259ddd66070f9a03710"
+  integrity sha512-F2o7RgfkegFwbxJN+mryqPPJHQaUzRej5JU3dzaXMPk7hVJKnsHu/Mm/y8rku/oflNyEILAbOKe8FcEAQkpxwg==
+  dependencies:
+    convert-string-to-number "^1.0.3"
+
+convert-string-to-number@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/convert-string-to-number/-/convert-string-to-number-1.0.3.tgz#424a8dba3b4f7a0c215878d0d4b97a5a25519bb5"
+  integrity sha512-ZvP2/ob7UvvC6s7euMDU2JXYz1dTdBXS8QvOgCPOiGHHYNsKcJ/WZUui3wL0vngXRfM7/3QSFF2PZWlPjgKeUA==
+
 couleurs@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/couleurs/-/couleurs-1.1.0.tgz#7ac5fc7e56959bf38f0bf771c5fc25761dd7c6ce"

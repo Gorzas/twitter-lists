@@ -5,6 +5,6 @@
   "author": "Gorzas <joseda87@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "csv-to-array": "^1.0.2"
+    "convert-csv-to-array": "^1.0.3"
   }
 }
